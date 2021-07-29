@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Trouvaille-Eunoia's Mentor (RR)
+- 👋 Hi, I’m @Trouvaille-Eunoia's Founder (RR)
 - 👀 I’m interested in mentoring students for building promising projects and writing significant research papers.
 - 🌱 I’m currently learning to best utilize my potential in helping students build a stong academic profile. 
 - 💞️ I’m looking to collaborate as a freelancer (datascient) with schools, colleges and universities.
